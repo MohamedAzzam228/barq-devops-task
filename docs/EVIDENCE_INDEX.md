@@ -10,16 +10,11 @@ pending until the challenge is performed in the final video working copy.
 
 * **Repository URL:** https://github.com/MohamedAzzam228/barq-devops-task
 * **Final commit:** PENDING — final commit after the 8090/three-instance video work.
-* **Matching CI run:** PENDING — record the successful CI workflow run matching
-  the final commit.
-* **Continuous 12-18 minute video URL:** PENDING — record the final continuous
-  video URL.
-* **Challenge receipt ID:** PENDING — record the receipt produced by the first
-  `./video_challenge.sh` execution during the final video.
-* **Starting video commit:** PENDING — record the commit/working state used at
-  the beginning of the final video.
-* **Later documentation-only commits, if any:** PENDING — record any commits
-  made after the video that only correct documentation/evidence.
+* **Matching CI run:** https://github.com/MohamedAzzam228/barq-devops-task/actions/runs/36060728879
+* **Continuous 12-18 minute video URL:** PENDING — record the final continuous video URL.
+* **Challenge receipt ID:** PENDING — record the receipt produced by the first `./video_challenge.sh` execution during the final video.
+* **Starting video commit:** `be9d619`
+* **Later documentation-only commits, if any:** PENDING — record any commits made after the video that only correct documentation/evidence.
 
 ## Requirement evidence
 
