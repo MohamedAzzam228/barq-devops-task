@@ -57,6 +57,9 @@ jobs:
       - name: Show service status
         run: docker compose ps
 
+      - name: Ensure script execution permissions
+        run: chmod +x validate.py failure_test.py backup.sh restore.sh video_challenge.sh
+
       - name: Run environment validation
         run: ./validate.py
 

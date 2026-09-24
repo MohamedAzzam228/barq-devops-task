@@ -8,7 +8,7 @@ pending until the challenge is performed in the final video working copy.
 
 ## Submission information
 
-* **Repository URL:** PENDING — fill with final repository URL before submission.
+* **Repository URL:** https://github.com/MohamedAzzam228/barq-devops-task
 * **Final commit:** PENDING — final commit after the 8090/three-instance video work.
 * **Matching CI run:** PENDING — record the successful CI workflow run matching
   the final commit.
